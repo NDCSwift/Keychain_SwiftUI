@@ -16,9 +16,11 @@ This project wraps the low-level iOS Keychain Services API (C-style `CFDictionar
 - **Swift 6 concurrency-safe** — `KeychainHelper` is `final` and `Sendable`, ready for strict concurrency
 - **No third-party dependencies** — only `Security` and `LocalAuthentication` frameworks
 
-## 📺 From the NoahDoesCoding YouTube Channel
+## 📺 Watch on YouTube
 
-This project is a companion to a tutorial on [@NoahDoesCoding97](https://www.youtube.com/@NoahDoesCoding97). Subscribe for weekly SwiftUI tutorials.
+[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20the%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtu.be/K0UQ-LJMRnE)
+
+> This project was built for the [NoahDoesCoding YouTube channel](https://www.youtube.com/@NoahDoesCoding97). Subscribe for weekly SwiftUI tutorials.
 
 ---
 
@@ -59,4 +61,4 @@ Face ID prompt requires a real device. All other features work on the simulator.
 - iOS 17+
 - No third-party dependencies
 
-📺 [Watch the guide on YouTube](https://www.youtube.com/@NoahDoesCoding97)
+📺 [Watch the guide on YouTube](https://youtu.be/K0UQ-LJMRnE)
